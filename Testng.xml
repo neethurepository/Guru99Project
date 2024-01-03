@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Guru99TDDFramework">
+<listeners>
+
+<listener class-name="utility.ExtentReportManager"/>
+
+</listeners>
+
+	<test name="Regression Testing" allow-return-values="true"> //type of testing
+	
+		<classes>
+		<!--	<class name="testLayer.TestLogin" /> --> //package name.class name
+			<class name="testLayer.TC1_Login_001"/> 
+			<class name="testLayer.TC1_LoginDDT_002"/> 
+			<class name="testLayer.TC2_AddCustomerPage_003"/> 
+			<class name="testLayer.TC3_EditCustomer_004"/> 
+			<class name="testLayer.TC4_DeleteCustomer_005"/> 
+			<class name="testLayer.TC5_NewAccount_006"/> 
+			
+			
+		
+		</classes>
+	</test>
+
+
+</suite>

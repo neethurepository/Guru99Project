@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-03T11:57:55 EST" name="Guru99TDDFramework" finished-at="2024-01-03T11:59:18 EST" duration-ms="83205">
+    <groups>
+    </groups>
+    <test started-at="2024-01-03T11:57:55 EST" name="Regression Testing" finished-at="2024-01-03T11:59:18 EST" duration-ms="83205">
+      <class name="testLayer.TC5_NewAccount_006">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC5_NewAccount_006@4212a0c8]" started-at="2024-01-03T11:59:11 EST" name="initsetup" finished-at="2024-01-03T11:59:15 EST" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="createnewaccount()[pri:0, instance:testLayer.TC5_NewAccount_006@4212a0c8]" started-at="2024-01-03T11:59:15 EST" name="createnewaccount" finished-at="2024-01-03T11:59:17 EST" duration-ms="1688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewaccount -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC5_NewAccount_006@4212a0c8]" started-at="2024-01-03T11:59:17 EST" name="close" finished-at="2024-01-03T11:59:18 EST" duration-ms="909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.TC5_NewAccount_006 -->
+      <class name="testLayer.TC2_AddCustomerPage_003">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC2_AddCustomerPage_003@7c541c15]" started-at="2024-01-03T11:58:36 EST" name="initsetup" finished-at="2024-01-03T11:58:39 EST" duration-ms="3253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="AddCustomer()[pri:0, instance:testLayer.TC2_AddCustomerPage_003@7c541c15]" started-at="2024-01-03T11:58:39 EST" name="AddCustomer" finished-at="2024-01-03T11:58:54 EST" duration-ms="14802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCustomer -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC2_AddCustomerPage_003@7c541c15]" started-at="2024-01-03T11:58:54 EST" name="close" finished-at="2024-01-03T11:58:55 EST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.TC2_AddCustomerPage_003 -->
+      <class name="testLayer.TC4_DeleteCustomer_005">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC4_DeleteCustomer_005@698122b2]" started-at="2024-01-03T11:59:05 EST" name="initsetup" finished-at="2024-01-03T11:59:09 EST" duration-ms="3436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="deletecustomer()[pri:0, instance:testLayer.TC4_DeleteCustomer_005@698122b2]" started-at="2024-01-03T11:59:09 EST" name="deletecustomer" finished-at="2024-01-03T11:59:10 EST" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC4_DeleteCustomer_005@698122b2]" started-at="2024-01-03T11:59:10 EST" name="close" finished-at="2024-01-03T11:59:11 EST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.TC4_DeleteCustomer_005 -->
+      <class name="testLayer.TC1_Login_001">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC1_Login_001@6475472c]" started-at="2024-01-03T11:57:55 EST" name="initsetup" finished-at="2024-01-03T11:57:59 EST" duration-ms="4265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login()[pri:1, instance:testLayer.TC1_Login_001@6475472c]" started-at="2024-01-03T11:57:59 EST" name="Login" finished-at="2024-01-03T11:58:02 EST" duration-ms="2543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC1_Login_001@6475472c]" started-at="2024-01-03T11:58:02 EST" name="close" finished-at="2024-01-03T11:58:03 EST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.TC1_Login_001 -->
+      <class name="testLayer.TC3_EditCustomer_004">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC3_EditCustomer_004@3542162a]" started-at="2024-01-03T11:58:55 EST" name="initsetup" finished-at="2024-01-03T11:58:58 EST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="EditCustomer()[pri:1, instance:testLayer.TC3_EditCustomer_004@3542162a]" started-at="2024-01-03T11:58:58 EST" name="EditCustomer" finished-at="2024-01-03T11:59:04 EST" duration-ms="6184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditCustomer -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC3_EditCustomer_004@3542162a]" started-at="2024-01-03T11:59:04 EST" name="close" finished-at="2024-01-03T11:59:05 EST" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.TC3_EditCustomer_004 -->
+      <class name="testLayer.TC1_LoginDDT_002">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:03 EST" name="initsetup" finished-at="2024-01-03T11:58:07 EST" duration-ms="3362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:07 EST" name="Login" data-provider="Details" finished-at="2024-01-03T11:58:11 EST" duration-ms="3941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr542946]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ytAdApe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:11 EST" name="close" finished-at="2024-01-03T11:58:12 EST" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:12 EST" name="initsetup" finished-at="2024-01-03T11:58:15 EST" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:15 EST" name="Login" data-provider="Details" finished-at="2024-01-03T11:58:19 EST" duration-ms="3446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr542946]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:19 EST" name="close" finished-at="2024-01-03T11:58:20 EST" duration-ms="986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:20 EST" name="initsetup" finished-at="2024-01-03T11:58:23 EST" duration-ms="3367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:23 EST" name="Login" data-provider="Details" finished-at="2024-01-03T11:58:26 EST" duration-ms="3493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ytAdApe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:26 EST" name="close" finished-at="2024-01-03T11:58:27 EST" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:27 EST" name="initsetup" finished-at="2024-01-03T11:58:31 EST" duration-ms="3403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:31 EST" name="Login" data-provider="Details" finished-at="2024-01-03T11:58:35 EST" duration-ms="3838" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr542946]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ytAdApe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.TC1_LoginDDT_002@3543df7d]" started-at="2024-01-03T11:58:35 EST" name="close" finished-at="2024-01-03T11:58:36 EST" duration-ms="982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.TC1_LoginDDT_002 -->
+    </test> <!-- Regression Testing -->
+  </suite> <!-- Guru99TDDFramework -->
+</testng-results>
